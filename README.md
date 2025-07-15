@@ -5,7 +5,6 @@ An interactive Excel dashboard using slicers to filter and visualize data by Dep
 ## Features
 - Interactive slicers for dynamic filtering
 - Multiple pivot tables connected via VBA
-- Company logo and professional layout
 
 ## Files Included
 - Excel dashboard (.xlsx)
@@ -17,4 +16,4 @@ Open the Excel file and click slicers to view filtered insights instantly.
 
 ---
 
-Created by [Your Name]
+Created by Ch. Akhtar Hayat
